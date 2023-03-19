@@ -1,0 +1,30 @@
+body {
+    background-image: url("water-lily-gd313038b4_1920.png");
+    color:rgb(220, 136, 223);
+    text-shadow: 2px 2px 5px rgb(141, 58, 141);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    width:100px;
+    height:35px;
+    background-color: rgb(245, 170, 228);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+button {
+    width:100px;
+    height:35px;
+    background-color: rgb(245, 115, 214);
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+#wrapper {
+    margin-top: 240px;
+    
+}
